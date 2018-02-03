@@ -4,30 +4,24 @@ draft = false
 title = "about me"
 
 +++
-Hey.
-
-I'm not super great with writing about myself, it aways feels weird.
-
+Hey. <br />
+I'm not super great with writing about myself, it aways feels weird. <br />
 So, who am I?
 
 ---
 
 ## basics.
 
-As of my writing of this, I'm 30 years old and living in the Greater Boston Area.
+As of my writing of this, I'm 31 years old and living in the Greater Boston Area.
 
 ---
 
 ## professional.
 
-I'm currently a Associate Infrastructure Engineer with [Hachette Book Group](http://www.hachettebookgroup.com/)
-
-My main focus there is our server infrastructure, but I also dabble a little bit with our storage. My boss wants me to touch more networking stuff, but if I didn't have to touch
-cisco gear, I wouldn't be upset.
-
-These days I'm most interested in the things happening in the DevOps/SRE space.
-
-
+I'm currently a DevOps Engineer with [Mobile Heartbeat](http://www.mobileheartbeat.com/), formally Infrastucture Engineer at [Hachette Book Group](www.hachettebookgroup.com),
+formally formally IT Specialist III at [State of Vermont](www.vermont.gov) <br />
+I'm just figuring this out. My main tasks will be automating our software deployments to client sites. I'll update this when I get a roadmap in place. <br />
+These days, professionally, I'm most interested in the things happening in the DevOps/SRE space.
 
 ---
 
@@ -35,9 +29,19 @@ These days I'm most interested in the things happening in the DevOps/SRE space.
 
 Outside of work, I'm an avid musician and tabletop gamer.
 
-Currently, I'm in Kreisau Circle doing vocals.
-
-Past work I've done is here:
-
+Currently music-wise, I'm in Kreisau Circle doing vocals. <br />
+Past work I've done is here:<br />
 https://doomservice.bandcamp.com/ <br />
 https://hunger.bandcamp.com
+
+---
+
+## this site.
+
+There are a few technologies used to publish this site.
+
+[Hugo](https://gohugo.io/) is used to generate the content from Markdown <br />
+[Vim](http://www.vim.org/) is used to type up my ~~dumb~~ thoughts <br />
+[Github](https://github.com/) is used to host my thoughts <br />
+[Ansible](https://www.ansible.com/) is used to deploy the static files <br />
+[Digital Ocean](https://digitalocean.com) is used to host the site

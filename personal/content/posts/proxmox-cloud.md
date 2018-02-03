@@ -13,7 +13,7 @@ topics = [
 title = "proxmox cloud"
 type = "post"
 draft = false
-date = "2017-01-16T20:41:45-05:00"
+date = "2017-06-17T20:41:45-05:00"
 author = "roy."
 tags = [
   "virtualization",
@@ -139,3 +139,11 @@ I'm going to write my patch for the Proxmox provider, but probably just keep tha
 beyond a stopgap until I get cloud-init working.
 
 Plus, I'm pretty sure cloud-init will be a better solution for when I want to experiment with building LXC containers.
+
+### Update 3, nerds
+
+So, I've been neglecting my blog because I'm a dummy.
+
+I've actually written my patch for the proxmox provider and have been using it in my homelab for a while at this point. 
+
+It was pretty cool, I got to learn how to do list comprehensions and now I can easily spin up new VMs in my lab!
